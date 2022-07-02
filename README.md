@@ -1,4 +1,3 @@
-# Keyword_extraction
 # Keywords extraction ucas
 
 This repository is for the source code to extract keywords from ucas personal statments (unstructured data). Unsupervised keywords extraction approach is implemented to extract keywords from ucas personal statements of applicants. 
