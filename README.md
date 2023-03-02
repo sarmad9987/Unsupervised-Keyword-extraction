@@ -9,6 +9,14 @@ In this project we have used:
 •	Word Cloud for visual representation of extracted keywords. 
 
 
+## DEMO:
+
+![Postcode and time](https://user-images.githubusercontent.com/90148389/163736119-9b9bb5ef-8027-4211-a951-4b0ea5d624ae.gif)
+
+![Postcode](https://user-images.githubusercontent.com/90148389/163736120-d7748778-c8c9-4662-a4ec-56f663fe2814.gif)
+
+
+
 ## Installation
 ### Requirements
 
@@ -69,11 +77,6 @@ conda install -c conda-forge wordcloud
 pip install Pillow
 ```
 
-## DEMO:
-
-![Postcode and time](https://user-images.githubusercontent.com/90148389/163736119-9b9bb5ef-8027-4211-a951-4b0ea5d624ae.gif)
-
-![Postcode](https://user-images.githubusercontent.com/90148389/163736120-d7748778-c8c9-4662-a4ec-56f663fe2814.gif)
 
 ## Word Cloud
 The wordclouds are generated using the different visualization options.  
